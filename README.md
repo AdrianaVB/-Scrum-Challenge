@@ -7,7 +7,7 @@ Desafío Scrum para asignar 7 tareas a 7 miembros del equipo Codipro en 7 días:
 
 **Equipo:** 7 miembros con habilidades y experiencia diversa.
 
-</br>Quinteros, Mariana
+Quinteros, Mariana
 </br>Bazán Azargado, Ma. Emilia
 </br>Torres Urzua, Siro Ezequiel
 </br>Esteche, Yamila Eliana
