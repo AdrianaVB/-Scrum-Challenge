@@ -1,11 +1,11 @@
 ***TUP’23 - PROYECTO INTEGRADOR*** 
-**Equipo CodiPro**
+</BR>***Equipo CodiPro***
 
 Desafío Scrum para asignar 7 tareas a 7 miembros del equipo Codipro en 7 días:
 
-*Objetivo:* Completar 7 tareas específicas en 7 días utilizando la metodología Scrum.
+**Objetivo:** Completar 7 tareas específicas en 7 días utilizando la metodología Scrum.
 
-*Equipo:* 7 miembros con habilidades y experiencia diversa.
+**Equipo:** 7 miembros con habilidades y experiencia diversa.
 
 Quinteros, Mariana
 Bazán Azargado, Ma. Emilia
@@ -15,13 +15,13 @@ Balmaceda, Adriana Verónica
 Martinez, Fabricio 
 Juan Beresiarte
 
-*Recursos:*
+**Recursos:**
 
 Product Backlog: Lista priorizada de las 7 tareas.
 Sprint Backlog: Lista de tareas seleccionadas del Product Backlog para el sprint actual.
 Tablero Scrum: Herramienta visual para rastrear el progreso del equipo que se realizará en la plataforma Github.
 
-*Pasos:*
+**Pasos:**
 
 1. Reunión de Planificación del Sprint (1 hora):
 
@@ -49,7 +49,7 @@ El equipo reflexiona sobre el sprint, lo que funcionó bien y lo que no.
 Se identifican acciones de mejora para implementar en futuros sprints.
 Se actualiza el Product Backlog en función de los comentarios y las lecciones aprendidas.
 
-*Consideraciones adicionales:*
+**Consideraciones adicionales:**
 
 Es importante que las tareas sean lo suficientemente pequeñas y bien definidas como para poder completarse en un día.
 Si una tarea es demasiado grande, se debe dividir en tareas más pequeñas.
@@ -57,7 +57,7 @@ Es crucial que la comunicación sea fluida y abierta entre los miembros del equi
 Se deben utilizar herramientas y técnicas de gestión del tiempo para optimizar el trabajo.
 Es importante ser flexible y adaptable, ya que las prioridades y los requisitos pueden cambiar durante el sprint.
 
-*Beneficios del uso de Scrum para este desafío:*
+**Beneficios del uso de Scrum para este desafío:**
 
 Mayor enfoque y productividad del equipo.
 Mejor comunicación y colaboración.
